@@ -1,0 +1,2 @@
+                                         теория
+источник https://ru.vuejs.org/v2/cookbook/adding-instance-properties.html
